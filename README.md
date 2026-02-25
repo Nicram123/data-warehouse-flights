@@ -1,6 +1,6 @@
-# ✈️ Flights Data Warehouse — Star Architecture
+# ✈️ Flights Data Warehouse — Medallion Architecture
 
-This project presents a complete Data Warehouse solution built on the Flights dataset, designed using the **Star Architecture**.  
+This project presents a complete Data Warehouse solution built on the Flights dataset, designed using the **Medallion Architecture**.  
 The pipeline follows a multi-layered structure to ensure data quality, scalability, and analytical readiness.
 
 ---
@@ -61,7 +61,7 @@ The pipeline incorporates data quality and transformation tests to ensure:
 
 ## 🛠️ Technologies & Concepts
 
-- **Star Architecture** (Bronze / Silver / Gold)  
+- **Medallion Architecture** (Bronze / Silver / Gold)  
 - **ETL/ELT** data processing  
 - **Data validation & testing**  
 - **Analytical reporting & visualization**  
